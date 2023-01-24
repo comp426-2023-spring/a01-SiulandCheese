@@ -1,0 +1,31 @@
+{
+  "name": "first-webserver",
+  "version": "0.0.1",
+  "description": "This package contains a very simple web server that takes one argument for port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-SiulandCheese.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "author": "SiulandCheese",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-SiulandCheese/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-SiulandCheese#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
